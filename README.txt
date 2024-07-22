@@ -1,30 +1,11 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Olá, eu sou a Rayssa Pereira
+Bem-vind@s ao meu Portifólio de Projetos em Análise de Dados
+Você vai encontrar:
+Os projetos que venho desenvolvendo a partir de dados públicos</li>
+Minhas experiências
+Habilidades, ferramentas e conhecimentos relacionados à Análise e Ciência de Dados
+Sinta-se à vontade para explorar e para entrar em contato.
 
-
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Sobre mim
+Sempre tenho sido muito observadora, analítica. A graduação em química me permitiu refinar meu pensamento análico, mas em meados do curso já comecei a buscar algo mais alinhado aos meus objetivos profissionais. Encontrei na análise de dados uma excelente junção entre minhas competências, as habilidades que busco aprimorar e meus interesses.
+Ainda me divido entre um laboratório de testes e os dados: esta transição tem sido um dos maiores desafios que já enfrentei.
